@@ -40,7 +40,7 @@ $cfg['Servers'][$i]['password'] = '272e799b';
 $cfg['Servers'][$i]['host'] = 'us-cdbr-azure-northcentral-a.cleardb.com:3306';
 /* Select mysql if your server does not have mysqli */
 $cfg['Servers'][$i]['extension'] = 'mysqli';
-
+$cfg['Servers'][$i]['controluser'] = 'ba30dbdb2d10ef';
 
 /*
  * phpMyAdmin configuration storage settings.
