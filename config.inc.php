@@ -34,13 +34,12 @@ $cfg['Servers'][$i]['connect_type'] = 'tcp';
 $cfg['Servers'][$i]['compress'] = false;
 $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
-$cfg['Servers'][$i]['user'] = 'ba30dbdb2d10ef';
-$cfg['Servers'][$i]['password'] = '272e799b';
+$cfg['Servers'][$i]['user'] = 'bea1032a957a19';
+$cfg['Servers'][$i]['password'] = 'c03cc102';
 /* Server parameters */
-$cfg['Servers'][$i]['host'] = 'us-cdbr-azure-northcentral-a.cleardb.com:3306';
+$cfg['Servers'][$i]['host'] = 'us-cdbr-azure-west-c.cloudapp.net';
 /* Select mysql if your server does not have mysqli */
 $cfg['Servers'][$i]['extension'] = 'mysqli';
-$cfg['Servers'][$i]['controluser'] = 'ba30dbdb2d10ef';
 
 /*
  * phpMyAdmin configuration storage settings.
