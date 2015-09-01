@@ -16,10 +16,7 @@ $cfg['Servers'][$i]['port'] = '';
 $cfg['Servers'][$i]['socket'] = '';
 $cfg['Servers'][$i]['connect_type'] = 'tcp';
 $cfg['Servers'][$i]['auth_type'] = 'config';
-$cfg['Servers'][$i]['controluser'] = 'bea1032a957a19';
-$cfg['Servers'][$i]['controlpass'] = 'c03cc102';
-$cfg['Servers'][$i]['user'] = 'bea1032a957a19';
-$cfg['Servers'][$i]['password'] = 'c03cc102';
+
 $cfg['Servers'][$i]['pmadb'] = 'bsquared';
 $cfg['Servers'][$i]['bookmarktable'] = 'pma__bookmark';
 $cfg['Servers'][$i]['relation'] = 'pma__relation.';
