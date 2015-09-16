@@ -37,8 +37,8 @@ $cfg['Servers'][$i]['central_columns'] = 'pma__central_columns';
 $cfg['Servers'][$i]['user'] = 'root';
 $cfg['Servers'][$i]['password'] = '';
 $cfg['Servers'][$i]['controlhost'] = 'us-cdbr-azure-west-c.cloudapp.net';
-$cfg['Servers'][$i]['controluser'] = 'b44524181f4c86';
-$cfg['Servers'][$i]['controlpass'] = '0615d1e1';
+$cfg['Servers'][$i]['controluser'] = 'bea1032a957a19';
+$cfg['Servers'][$i]['controlpass'] = 'c03cc102';
 
 /* End of servers configuration */
 

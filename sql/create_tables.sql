@@ -17,9 +17,9 @@
 --
 -- Database : `phpmyadmin`
 --
-CREATE DATABASE IF NOT EXISTS `phpmyadmin`
-  DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
-USE phpmyadmin;
+--CREATE DATABASE IF NOT EXISTS `phpmyadmin`
+--  DEFAULT CHARACTER SET utf8 COLLATE utf8_bin;
+USE acsm_426fce9e8c80a33;
 
 -- --------------------------------------------------------
 
