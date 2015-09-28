@@ -47,4 +47,5 @@ $cfg['DefaultLang'] = 'en';
 $cfg['ServerDefault'] = 1;
 $cfg['UploadDir'] = '';
 $cfg['SaveDir'] = '';
+$cfg['MaxTableList'] = 250;
 ?>
