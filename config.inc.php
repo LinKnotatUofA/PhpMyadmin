@@ -11,7 +11,7 @@ $i = 0;
 /* Server: bsquared [1] */
 $i++;
 $cfg['Servers'][$i]['verbose'] = 'bsquared';
-$cfg['Servers'][$i]['host'] = 'us-cdbr-azure-west-c.cloudapp.net';
+$cfg['Servers'][$i]['host'] = 'ca-cdbr-azure-central-a.cloudapp.net';
 $cfg['Servers'][$i]['port'] = '';
 $cfg['Servers'][$i]['socket'] = '';
 $cfg['Servers'][$i]['connect_type'] = 'tcp';
@@ -36,9 +36,9 @@ $cfg['Servers'][$i]['savedsearches'] = 'pma__savedsearches';
 $cfg['Servers'][$i]['central_columns'] = 'pma__central_columns';
 $cfg['Servers'][$i]['user'] = 'root';
 $cfg['Servers'][$i]['password'] = '';
-$cfg['Servers'][$i]['controlhost'] = 'us-cdbr-azure-west-c.cloudapp.net';
-$cfg['Servers'][$i]['controluser'] = 'b44524181f4c86';
-$cfg['Servers'][$i]['controlpass'] = '0615d1e1';
+$cfg['Servers'][$i]['controlhost'] = 'ca-cdbr-azure-central-a.cloudapp.net';
+$cfg['Servers'][$i]['controluser'] = 'b9ae261f027fe3';
+$cfg['Servers'][$i]['controlpass'] = 'cbb2cfa0';
 
 /* End of servers configuration */
 
